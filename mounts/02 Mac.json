@@ -3,21 +3,21 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "Plum/README.md": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Plum_README.md",
-      "手动安装/README.md": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85_README.md",
-      "手动安装/安装方法.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85_%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.txt",
-      "Fcitx5/更新日志.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
-      "Fcitx5/092-fcitx5系说明.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_092-fcitx5%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
-      "Fcitx5/卸载方法.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
+      "Plum/README.md": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/README.md",
+      "手动安装/README.md": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/README.md",
+      "手动安装/安装方法.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.txt",
+      "Fcitx5/更新日志.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
+      "Fcitx5/092-fcitx5系说明.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/092-fcitx5%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
+      "Fcitx5/卸载方法.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
       "Fcitx5/fcitx5-mcos主题.zip": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_fcitx5-mcos%E4%B8%BB%E9%A2%98.zip",
-      "Fcitx5/无法验证开发者解决办法.png": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png",
+      "Fcitx5/无法验证开发者解决办法.png": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png",
       "Fcitx5/092五笔-Fcitx5-0.2.7-20250910.zip": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Fcitx5_092%E4%BA%94%E7%AC%94-Fcitx5-0.2.7-20250910.zip",
-      "Rime/更新日志.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
+      "Rime/更新日志.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
       "Rime/092五笔-竖排-Squirrel-1.0.3-20250910.pkg": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_092%E4%BA%94%E7%AC%94-%E7%AB%96%E6%8E%92-Squirrel-1.0.3-20250910.pkg",
-      "Rime/卸载方法.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
+      "Rime/卸载方法.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
       "Rime/092五笔-横排-Squirrel-1.0.3-20250910.pkg": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_092%E4%BA%94%E7%AC%94-%E6%A8%AA%E6%8E%92-Squirrel-1.0.3-20250910.pkg",
-      "Rime/092-rime系说明.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_092-rime%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
-      "Rime/无法验证开发者解决办法.png": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/02%20Mac_Rime_%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png"
+      "Rime/092-rime系说明.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/092-rime%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
+      "Rime/无法验证开发者解决办法.png": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png"
     }
   }
 }
