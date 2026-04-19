@@ -1,0 +1,9 @@
+{
+  "mountPath": "/06 Links",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "/06 Links/README.md": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/06%20Links_README.md"
+    }
+  }
+}
