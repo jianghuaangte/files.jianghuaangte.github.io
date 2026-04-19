@@ -3,8 +3,8 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "Plum/README.md": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/README.md",
-      "通用安装/通用安装.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85.txt"
+      "Plum/README.md": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/03%20Linux%2FPlum%2FREADME.md",
+      "通用安装/通用安装.txt": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/092wb-files/refs/heads/main/03%20Linux%2F%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85%2F%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85.txt"
     }
   }
 }
