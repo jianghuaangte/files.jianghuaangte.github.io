@@ -5,6 +5,7 @@ import { FileList } from './src/node/index.js'
 export default defineUserConfig({
   bundler: viteBundler(),
   pagePatterns: [],
+  base: '/files/',  // 添加这行 
   lang: 'zh-CN',
   public: `./public`,
   // 网站标题，标题颜色可在 src/client/css/main.css 中修改
