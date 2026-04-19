@@ -3,8 +3,8 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "Plum/README.md": "https://gitcode.com/2611_95642383/092wb/releases/download/sync-latest/Plum_README.md",
-      "通用安装/通用安装.txt": "https://gitcode.com/2611_95642383/092wb/releases/download/sync-latest/%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85_%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85.txt"
+      "Plum/README.md": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/Plum_README.md",
+      "通用安装/通用安装.txt": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85_%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85.txt"
     }
   }
 }

@@ -3,8 +3,8 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "workflows/gitcode-sync.yml": "https://gitcode.com/2611_95642383/092wb/releases/download/sync-latest/workflows_gitcode-sync.yml",
-      "workflows/build-json.yml": "https://gitcode.com/2611_95642383/092wb/releases/download/sync-latest/workflows_build-json.yml"
+      "workflows/gitcode-sync.yml": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/workflows_gitcode-sync.yml",
+      "workflows/build-json.yml": "https://gitcode.com/2611_95642383/092wb-files/releases/download/sync-latest/workflows_build-json.yml"
     }
   }
 }
