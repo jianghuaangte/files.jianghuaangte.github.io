@@ -28,7 +28,7 @@ const content = computed(()=>frontmatter.value.flistData?.content);
       <FContent v-if="content" :content="content" style="padding: 1rem"></FContent>
     </div>
     <div class="footer">
-      <FLink to="https://github.com/092wb/092wb">092Team By 往风</FLink>
+      <FLink to="https://jianghuaangte.github.io/files/">文件</FLink>
     </div>
 <!--    消息弹出框-->
     <Notification></Notification>
