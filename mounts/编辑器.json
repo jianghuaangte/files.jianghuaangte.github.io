@@ -3,9 +3,14 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "EmEditor.zip": {
+      "Windows/EmEditor.zip": {
         "url": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/my-files/refs/heads/main/%E7%BC%96%E8%BE%91%E5%99%A8/EmEditor.zip",
         "size": 1048576,
+        "updateTime": 1715760000000 
+      },
+      "Windows/EmEditor2.zip": {
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/jianghuaangte/my-files/refs/heads/main/%E7%BC%96%E8%BE%91%E5%99%A8/EmEditor.zip",
+        "size": 10485762,
         "updateTime": 1715760000000 
       }
     }
