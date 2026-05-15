@@ -1,29 +1,29 @@
 {
-  "mountPath": "/wox",
+  "mountPath": "/启动器",
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "wox-linux-amd64": {
+      "Wox/wox-linux-amd64": {
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-linux-amd64",
         "size": 118088024,
         "updateTime": 1777211729000
       },
-      "wox-linux-amd64.AppImage": {
+      "Wox/wox-linux-amd64.AppImage": {
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-linux-amd64.AppImage",
         "size": 42251456,
         "updateTime": 1777211725000
       },
-      "wox-mac-amd64.dmg": {
+      "Wox/wox-mac-amd64.dmg": {
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-amd64.dmg",
         "size": 43185069,
         "updateTime": 1777211722000
       },
-      "wox-mac-arm64.dmg": {
+      "Wox/wox-mac-arm64.dmg": {
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-arm64.dmg",
         "size": 42230180,
         "updateTime": 1777211720000
       },
-      "wox-windows-amd64.exe": {
+      "Wox/wox-windows-amd64.exe": {
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-windows-amd64.exe",
         "size": 85513520,
         "updateTime": 1777211717000

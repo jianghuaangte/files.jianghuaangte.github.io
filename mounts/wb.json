@@ -1,402 +1,397 @@
 {
-  "mountPath": "/092wb",
+  "mountPath": "/wb",
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
-      "Windows/neovim/.gitignore": {
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/.gitignore",
-        "size": 10,
-        "updateTime": 1778842056511
-      },
-      "Windows/neovim/00 帮助/092五笔入门帮助文档.pdf": {
+      "092wb/00 帮助/092五笔入门帮助文档.pdf": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/092%E4%BA%94%E7%AC%94%E5%85%A5%E9%97%A8%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3.pdf",
         "size": 354436,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/README.md": {
+      "092wb/00 帮助/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/README.md",
         "size": 221,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/功能展示/Emoji.gif": {
+      "092wb/00 帮助/功能展示/Emoji.gif": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/Emoji.gif",
         "size": 43386,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/功能展示/字集切换.gif": {
+      "092wb/00 帮助/功能展示/字集切换.gif": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/%E5%AD%97%E9%9B%86%E5%88%87%E6%8D%A2.gif",
         "size": 26058,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/功能展示/拆分、注解.gif": {
+      "092wb/00 帮助/功能展示/拆分、注解.gif": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/%E6%8B%86%E5%88%86%E3%80%81%E6%B3%A8%E8%A7%A3.gif",
         "size": 128632,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/功能展示/繁简切换.gif": {
+      "092wb/00 帮助/功能展示/繁简切换.gif": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/%E7%B9%81%E7%AE%80%E5%88%87%E6%8D%A2.gif",
         "size": 13679,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/旧版/092五笔-Bime-20250909.zip": {
+      "092wb/00 帮助/旧版/092五笔-Bime-20250909.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E6%97%A7%E7%89%88/092%E4%BA%94%E7%AC%94-Bime-20250909.zip",
         "size": 2,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/00 帮助/旧版/精简版-092wb-trime-20250909.Apk": {
+      "092wb/00 帮助/旧版/精简版-092wb-trime-20250909.Apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/00%20%E5%B8%AE%E5%8A%A9/%E6%97%A7%E7%89%88/%E7%B2%BE%E7%AE%80%E7%89%88-092wb-trime-20250909.Apk",
         "size": 29302787,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/092五笔-横排-0.17.4.0-20251226.exe": {
+      "092wb/01 Windows/Rime/092五笔-横排-0.17.4.0-20251226.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/092%E4%BA%94%E7%AC%94-%E6%A8%AA%E6%8E%92-0.17.4.0-20251226.exe",
         "size": 12606102,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/092五笔-横排-Win7专版.exe": {
+      "092wb/01 Windows/Rime/092五笔-横排-Win7专版.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/092%E4%BA%94%E7%AC%94-%E6%A8%AA%E6%8E%92-Win7%E4%B8%93%E7%89%88.exe",
         "size": 9376457,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/092五笔-横排-icons-0.17.4.0-20251226.exe": {
+      "092wb/01 Windows/Rime/092五笔-横排-icons-0.17.4.0-20251226.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/092%E4%BA%94%E7%AC%94-%E6%A8%AA%E6%8E%92-icons-0.17.4.0-20251226.exe",
         "size": 12536134,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/092五笔-竖排-0.17.4.0-20251226.exe": {
+      "092wb/01 Windows/Rime/092五笔-竖排-0.17.4.0-20251226.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/092%E4%BA%94%E7%AC%94-%E7%AB%96%E6%8E%92-0.17.4.0-20251226.exe",
         "size": 12607104,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/README.md": {
+      "092wb/01 Windows/Rime/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/README.md",
         "size": 88,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/功能说明.txt": {
+      "092wb/01 Windows/Rime/功能说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.txt",
         "size": 691,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/更新日志.txt": {
+      "092wb/01 Windows/Rime/更新日志.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
         "size": 602,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/皮肤集/Win11皮肤/weasel.custom.yaml": {
+      "092wb/01 Windows/Rime/皮肤集/Win11皮肤/weasel.custom.yaml": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E7%9A%AE%E8%82%A4%E9%9B%86/Win11%E7%9A%AE%E8%82%A4/weasel.custom.yaml",
         "size": 1151,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/皮肤集/Win11皮肤/win11预览.png": {
+      "092wb/01 Windows/Rime/皮肤集/Win11皮肤/win11预览.png": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E7%9A%AE%E8%82%A4%E9%9B%86/Win11%E7%9A%AE%E8%82%A4/win11%E9%A2%84%E8%A7%88.png",
         "size": 12050,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/皮肤集/微信输入法风格/weasel.custom.yaml": {
+      "092wb/01 Windows/Rime/皮肤集/微信输入法风格/weasel.custom.yaml": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E7%9A%AE%E8%82%A4%E9%9B%86/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95%E9%A3%8E%E6%A0%BC/weasel.custom.yaml",
         "size": 960,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/皮肤集/微信输入法风格/wechat预览.png": {
+      "092wb/01 Windows/Rime/皮肤集/微信输入法风格/wechat预览.png": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E7%9A%AE%E8%82%A4%E9%9B%86/%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95%E9%A3%8E%E6%A0%BC/wechat%E9%A2%84%E8%A7%88.png",
         "size": 6226,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/Rime/皮肤集/皮肤使用方法.txt": {
+      "092wb/01 Windows/Rime/皮肤集/皮肤使用方法.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/Rime/%E7%9A%AE%E8%82%A4%E9%9B%86/%E7%9A%AE%E8%82%A4%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.txt",
         "size": 156,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/092_冰凌.zip": {
+      "092wb/01 Windows/便携版/092_冰凌.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/092_%E5%86%B0%E5%87%8C.zip",
         "size": 2853965,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/092五笔-Rabbit-x64-20250909.zip": {
+      "092wb/01 Windows/便携版/092五笔-Rabbit-x64-20250909.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/092%E4%BA%94%E7%AC%94-Rabbit-x64-20250909.zip",
         "size": 22323887,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/092五笔-rime.toy-20250909.zip": {
+      "092wb/01 Windows/便携版/092五笔-rime.toy-20250909.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/092%E4%BA%94%E7%AC%94-rime.toy-20250909.zip",
         "size": 22308410,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/092五笔_大大_32位.exe": {
+      "092wb/01 Windows/便携版/092五笔_大大_32位.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/092%E4%BA%94%E7%AC%94_%E5%A4%A7%E5%A4%A7_32%E4%BD%8D.exe",
         "size": 29546496,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/092五笔_大大_64位.exe": {
+      "092wb/01 Windows/便携版/092五笔_大大_64位.exe": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/092%E4%BA%94%E7%AC%94_%E5%A4%A7%E5%A4%A7_64%E4%BD%8D.exe",
         "size": 29690368,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/便携版/更新日志.txt": {
+      "092wb/01 Windows/便携版/更新日志.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E4%BE%BF%E6%90%BA%E7%89%88/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
         "size": 283,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/多多/092K多多版20260112.rar": {
+      "092wb/01 Windows/多多/092K多多版20260112.rar": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E5%A4%9A%E5%A4%9A/092K%E5%A4%9A%E5%A4%9A%E7%89%8820260112.rar",
         "size": 19334774,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/多多/092原版修订多多版_20260209.rar": {
+      "092wb/01 Windows/多多/092原版修订多多版_20260209.rar": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E5%A4%9A%E5%A4%9A/092%E5%8E%9F%E7%89%88%E4%BF%AE%E8%AE%A2%E5%A4%9A%E5%A4%9A%E7%89%88_20260209.rar",
         "size": 18992714,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/小小/092版小小输入法说明.txt": {
+      "092wb/01 Windows/小小/092版小小输入法说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E5%B0%8F%E5%B0%8F/092%E7%89%88%E5%B0%8F%E5%B0%8F%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%B4%E6%98%8E.txt",
         "size": 608,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/微软五笔/10重设置.txt": {
+      "092wb/01 Windows/微软五笔/10重设置.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E5%BE%AE%E8%BD%AF%E4%BA%94%E7%AC%94/10%E9%87%8D%E8%AE%BE%E7%BD%AE.txt",
         "size": 74,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/01 Windows/微软五笔/README.md": {
+      "092wb/01 Windows/微软五笔/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/01%20Windows/%E5%BE%AE%E8%BD%AF%E4%BA%94%E7%AC%94/README.md",
         "size": 53,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/092-fcitx5系说明.txt": {
+      "092wb/02 Mac/Fcitx5/092-fcitx5系说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/092-fcitx5%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
         "size": 812,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/092五笔-Fcitx5-0.2.7-20250910.zip": {
+      "092wb/02 Mac/Fcitx5/092五笔-Fcitx5-0.2.7-20250910.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/092%E4%BA%94%E7%AC%94-Fcitx5-0.2.7-20250910.zip",
         "size": 31862763,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/fcitx5-mcos主题.zip": {
+      "092wb/02 Mac/Fcitx5/fcitx5-mcos主题.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/fcitx5-mcos%E4%B8%BB%E9%A2%98.zip",
         "size": 13270,
-        "updateTime": 1778842056511
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/卸载方法.txt": {
+      "092wb/02 Mac/Fcitx5/卸载方法.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
         "size": 44,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/无法验证开发者解决办法.png": {
+      "092wb/02 Mac/Fcitx5/无法验证开发者解决办法.png": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png",
         "size": 427656,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Fcitx5/更新日志.txt": {
+      "092wb/02 Mac/Fcitx5/更新日志.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Fcitx5/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
         "size": 166,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Plum/README.md": {
+      "092wb/02 Mac/Plum/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Plum/README.md",
         "size": 64,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/092-rime系说明.txt": {
+      "092wb/02 Mac/Rime/092-rime系说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/092-rime%E7%B3%BB%E8%AF%B4%E6%98%8E.txt",
         "size": 795,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/092五笔-横排-Squirrel-1.0.3-20250910.pkg": {
+      "092wb/02 Mac/Rime/092五笔-横排-Squirrel-1.0.3-20250910.pkg": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/092%E4%BA%94%E7%AC%94-%E6%A8%AA%E6%8E%92-Squirrel-1.0.3-20250910.pkg",
         "size": 29763017,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/092五笔-竖排-Squirrel-1.0.3-20250910.pkg": {
+      "092wb/02 Mac/Rime/092五笔-竖排-Squirrel-1.0.3-20250910.pkg": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/092%E4%BA%94%E7%AC%94-%E7%AB%96%E6%8E%92-Squirrel-1.0.3-20250910.pkg",
         "size": 29763029,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/卸载方法.txt": {
+      "092wb/02 Mac/Rime/卸载方法.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/%E5%8D%B8%E8%BD%BD%E6%96%B9%E6%B3%95.txt",
         "size": 412,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/无法验证开发者解决办法.png": {
+      "092wb/02 Mac/Rime/无法验证开发者解决办法.png": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.png",
         "size": 427656,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/Rime/更新日志.txt": {
+      "092wb/02 Mac/Rime/更新日志.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/Rime/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
         "size": 67,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/手动安装/README.md": {
+      "092wb/02 Mac/手动安装/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85/README.md",
         "size": 374,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/02 Mac/手动安装/安装方法.txt": {
+      "092wb/02 Mac/手动安装/安装方法.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/02%20Mac/%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.txt",
         "size": 161,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/03 Linux/Plum/README.md": {
+      "092wb/03 Linux/Plum/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/03%20Linux/Plum/README.md",
         "size": 142,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/03 Linux/通用安装/通用安装.txt": {
+      "092wb/03 Linux/通用安装/通用安装.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/03%20Linux/%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85/%E9%80%9A%E7%94%A8%E5%AE%89%E8%A3%85.txt",
         "size": 62,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Fcitx5/092版fcitx5-android使用说明.txt": {
+      "092wb/04 Android/Fcitx5/092版fcitx5-android使用说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Fcitx5/092%E7%89%88fcitx5-android%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.txt",
         "size": 597,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Fcitx5/Fcitx5-android.Apk": {
+      "092wb/04 Android/Fcitx5/Fcitx5-android.Apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Fcitx5/Fcitx5-android.Apk",
         "size": 46335971,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Fcitx5/小企鹅输入法5 (092插件).apk": {
+      "092wb/04 Android/Fcitx5/小企鹅输入法5 (092插件).apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Fcitx5/%E5%B0%8F%E4%BC%81%E9%B9%85%E8%BE%93%E5%85%A5%E6%B3%955%20%28092%E6%8F%92%E4%BB%B6%29.apk",
         "size": 6838117,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Harmony/鸿蒙用“超越输入法”并导入 Rime 配置文件.txt": {
+      "092wb/04 Android/Harmony/鸿蒙用“超越输入法”并导入 Rime 配置文件.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Harmony/%E9%B8%BF%E8%92%99%E7%94%A8%E2%80%9C%E8%B6%85%E8%B6%8A%E8%BE%93%E5%85%A5%E6%B3%95%E2%80%9D%E5%B9%B6%E5%AF%BC%E5%85%A5%20Rime%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.txt",
         "size": 0,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/092wb-v3.2.19-trime-20260425.Apk": {
+      "092wb/04 Android/Rime/092wb-v3.2.19-trime-20260425.Apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/092wb-v3.2.19-trime-20260425.Apk",
         "size": 30224140,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/092wb-v3.3.10-trime-20260501.Apk": {
+      "092wb/04 Android/Rime/092wb-v3.3.10-trime-20260501.Apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/092wb-v3.3.10-trime-20260501.Apk",
         "size": 21166388,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/092五笔_20250101.Apk": {
+      "092wb/04 Android/Rime/092五笔_20250101.Apk": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/092%E4%BA%94%E7%AC%94_20250101.Apk",
         "size": 93664821,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/功能说明.txt": {
+      "092wb/04 Android/Rime/功能说明.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.txt",
         "size": 67,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/同文092五笔直装版_20201120.rar": {
+      "092wb/04 Android/Rime/同文092五笔直装版_20201120.rar": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/%E5%90%8C%E6%96%87092%E4%BA%94%E7%AC%94%E7%9B%B4%E8%A3%85%E7%89%88_20201120.rar",
         "size": 22007870,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/安装前请清理旧目录.txt": {
+      "092wb/04 Android/Rime/安装前请清理旧目录.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/%E5%AE%89%E8%A3%85%E5%89%8D%E8%AF%B7%E6%B8%85%E7%90%86%E6%97%A7%E7%9B%AE%E5%BD%95.txt",
         "size": 181,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/04 Android/Rime/更新日志.txt": {
+      "092wb/04 Android/Rime/更新日志.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/04%20Android/Rime/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt",
         "size": 591,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/05 iOS/iRime/092五笔_irime_iOS.zip": {
+      "092wb/05 iOS/iRime/092五笔_irime_iOS.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/05%20iOS/iRime/092%E4%BA%94%E7%AC%94_irime_iOS.zip",
         "size": 2357532,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/05 iOS/仓输入法/092wb-hamster.zip": {
+      "092wb/05 iOS/仓输入法/092wb-hamster.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/05%20iOS/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/092wb-hamster.zip",
         "size": 6124701,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/05 iOS/仓输入法/键盘布局.zip": {
+      "092wb/05 iOS/仓输入法/键盘布局.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/05%20iOS/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/%E9%94%AE%E7%9B%98%E5%B8%83%E5%B1%80.zip",
         "size": 4051,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/05 iOS/元书输入法/README.md": {
+      "092wb/05 iOS/元书输入法/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/05%20iOS/%E5%85%83%E4%B9%A6%E8%BE%93%E5%85%A5%E6%B3%95/README.md",
         "size": 121,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/06 Links/README.md": {
+      "092wb/06 Links/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/06%20Links/README.md",
         "size": 238,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/07 私用版/README.md": {
+      "092wb/07 私用版/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/07%20%E7%A7%81%E7%94%A8%E7%89%88/README.md",
         "size": 12,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/092etymon.otf": {
+      "092wb/08 字体/092etymon.otf": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/092etymon.otf",
         "size": 409404,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/LXGWWenKaiGBScreen.ttf": {
+      "092wb/08 字体/LXGWWenKaiGBScreen.ttf": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/LXGWWenKaiGBScreen.ttf",
         "size": 19661684,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/README.md": {
+      "092wb/08 字体/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/README.md",
         "size": 164,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/TH-Feon(全漢字，安卓未root用).ttf": {
+      "092wb/08 字体/TH-Feon(全漢字，安卓未root用).ttf": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/TH-Feon%28%E5%85%A8%E6%BC%A2%E5%AD%97%EF%BC%8C%E5%AE%89%E5%8D%93%E6%9C%AAroot%E7%94%A8%29.ttf",
         "size": 25880412,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/TH-Khaai-T3.0.0.7z": {
+      "092wb/08 字体/TH-Khaai-T3.0.0.7z": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/TH-Khaai-T3.0.0.7z",
         "size": 26766642,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/宋体Win系统升级包.zip": {
+      "092wb/08 字体/宋体Win系统升级包.zip": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/%E5%AE%8B%E4%BD%93Win%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7%E5%8C%85.zip",
         "size": 26316292,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/显示超集字方法.txt": {
+      "092wb/08 字体/显示超集字方法.txt": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/%E6%98%BE%E7%A4%BA%E8%B6%85%E9%9B%86%E5%AD%97%E6%96%B9%E6%B3%95.txt",
         "size": 650,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/08 字体/超集人口（扩展 到G区）.ttf": {
+      "092wb/08 字体/超集人口（扩展 到G区）.ttf": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/08%20%E5%AD%97%E4%BD%93/%E8%B6%85%E9%9B%86%E4%BA%BA%E5%8F%A3%EF%BC%88%E6%89%A9%E5%B1%95%20%E5%88%B0G%E5%8C%BA%EF%BC%89.ttf",
         "size": 26696600,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/09 字根图/092五笔e236字根表.PNG": {
+      "092wb/09 字根图/092五笔e236字根表.PNG": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/09%20%E5%AD%97%E6%A0%B9%E5%9B%BE/092%E4%BA%94%E7%AC%94e236%E5%AD%97%E6%A0%B9%E8%A1%A8.PNG",
         "size": 70216,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/09 字根图/092五笔字根.jpg": {
+      "092wb/09 字根图/092五笔字根.jpg": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/09%20%E5%AD%97%E6%A0%B9%E5%9B%BE/092%E4%BA%94%E7%AC%94%E5%AD%97%E6%A0%B9.jpg",
         "size": 5574581,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/09 字根图/092五笔字根增补.jpg": {
+      "092wb/09 字根图/092五笔字根增补.jpg": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/09%20%E5%AD%97%E6%A0%B9%E5%9B%BE/092%E4%BA%94%E7%AC%94%E5%AD%97%E6%A0%B9%E5%A2%9E%E8%A1%A5.jpg",
         "size": 6359980,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/10 更多资料：092五笔闲聊群/092wb.png": {
+      "092wb/10 更多资料：092五笔闲聊群/092wb.png": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/10%20%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%96%99%EF%BC%9A092%E4%BA%94%E7%AC%94%E9%97%B2%E8%81%8A%E7%BE%A4/092wb.png",
         "size": 71648,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       },
-      "Windows/neovim/10 更多资料：092五笔闲聊群/README.md": {
+      "092wb/10 更多资料：092五笔闲聊群/README.md": {
         "url": "https://ghfast.top/https://raw.githubusercontent.com/092wb/092wb-files/main/10%20%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%96%99%EF%BC%9A092%E4%BA%94%E7%AC%94%E9%97%B2%E8%81%8A%E7%BE%A4/README.md",
         "size": 341,
-        "updateTime": 1778842056512
+        "updateTime": 1778843927336
       }
     }
   }
