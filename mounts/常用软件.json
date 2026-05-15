@@ -142,6 +142,31 @@
         "url": "https://ghfast.top/https://github.com/pot-app/pot-desktop/releases/download/3.0.7/pot_3.0.7_x86_fix_webview2_runtime-setup.nsis.zip",
         "size": 172891096,
         "updateTime": 1746840948000
+      },
+      "Wox启动器/wox-linux-amd64": {
+        "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-linux-amd64",
+        "size": 118088024,
+        "updateTime": 1777211729000
+      },
+      "Wox启动器/wox-linux-amd64.AppImage": {
+        "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-linux-amd64.AppImage",
+        "size": 42251456,
+        "updateTime": 1777211725000
+      },
+      "Wox启动器/wox-mac-amd64.dmg": {
+        "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-amd64.dmg",
+        "size": 43185069,
+        "updateTime": 1777211722000
+      },
+      "Wox启动器/wox-mac-arm64.dmg": {
+        "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-arm64.dmg",
+        "size": 42230180,
+        "updateTime": 1777211720000
+      },
+      "Wox启动器/wox-windows-amd64.exe": {
+        "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-windows-amd64.exe",
+        "size": 85513520,
+        "updateTime": 1777211717000
       }
     }
   }
