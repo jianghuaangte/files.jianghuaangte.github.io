@@ -3,6 +3,121 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
+      "WezTerm/WezTerm-20240203-110809-5046fc22-setup.exe": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe",
+        "size": 42321770,
+        "updateTime": 1706986574000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22-src.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz",
+        "size": 41444064,
+        "updateTime": 1706985884000
+      },
+      "WezTerm/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage",
+        "size": 49505472,
+        "updateTime": 1706985885000
+      },
+      "WezTerm/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync",
+        "size": 169488,
+        "updateTime": 1706985882000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian10.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb",
+        "size": 30526688,
+        "updateTime": 1706985400000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian10.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz",
+        "size": 30440576,
+        "updateTime": 1706985400000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian11.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb",
+        "size": 30639140,
+        "updateTime": 1706985435000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian11.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz",
+        "size": 30445432,
+        "updateTime": 1706985435000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb",
+        "size": 28477484,
+        "updateTime": 1706992946000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian12.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb",
+        "size": 30714456,
+        "updateTime": 1706986090000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Debian12.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz",
+        "size": 30433096,
+        "updateTime": 1706986091000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb",
+        "size": 30703868,
+        "updateTime": 1706985884000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz",
+        "size": 30515256,
+        "updateTime": 1706985884000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb",
+        "size": 33303026,
+        "updateTime": 1706993024000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb",
+        "size": 34300188,
+        "updateTime": 1706985348000
+      },
+      "WezTerm/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz",
+        "size": 30508792,
+        "updateTime": 1706985348000
+      },
+      "WezTerm/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm",
+        "size": 34561128,
+        "updateTime": 1706985147000
+      },
+      "WezTerm/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm",
+        "size": 33867680,
+        "updateTime": 1706985633000
+      },
+      "WezTerm/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm",
+        "size": 34102597,
+        "updateTime": 1706985784000
+      },
+      "WezTerm/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm",
+        "size": 34185663,
+        "updateTime": 1706985398000
+      },
+      "WezTerm/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm",
+        "size": 34179903,
+        "updateTime": 1706985605000
+      },
+      "WezTerm/WezTerm-macos-20240203-110809-5046fc22.zip": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip",
+        "size": 102967427,
+        "updateTime": 1706986785000
+      },
+      "WezTerm/WezTerm-windows-20240203-110809-5046fc22.zip": {
+        "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip",
+        "size": 66162319,
+        "updateTime": 1706986575000
+      },
       "Git/Git-2.54.0-64-bit.exe": {
         "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-64-bit.exe",
         "size": 65175776,
