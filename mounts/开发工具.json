@@ -3,6 +3,66 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
+      "编辑器/Neovim/nvim-linux-arm64.appimage": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-arm64.appimage",
+        "size": 11319816,
+        "updateTime": 1776870238000
+      },
+      "编辑器/Neovim/nvim-linux-arm64.appimage.zsync": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-arm64.appimage.zsync",
+        "size": 38917,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-linux-arm64.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-arm64.tar.gz",
+        "size": 11330653,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-linux-x86_64.appimage": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-x86_64.appimage",
+        "size": 11405816,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-linux-x86_64.appimage.zsync": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-x86_64.appimage.zsync",
+        "size": 39213,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-linux-x86_64.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-x86_64.tar.gz",
+        "size": 11368705,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-macos-arm64.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-macos-arm64.tar.gz",
+        "size": 9597735,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-macos-x86_64.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-macos-x86_64.tar.gz",
+        "size": 9868245,
+        "updateTime": 1776870237000
+      },
+      "编辑器/Neovim/nvim-win-arm64.msi": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win-arm64.msi",
+        "size": 12820540,
+        "updateTime": 1776870239000
+      },
+      "编辑器/Neovim/nvim-win-arm64.zip": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win-arm64.zip",
+        "size": 12990710,
+        "updateTime": 1776870239000
+      },
+      "编辑器/Neovim/nvim-win64.msi": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win64.msi",
+        "size": 12443708,
+        "updateTime": 1776870238000
+      },
+      "编辑器/Neovim/nvim-win64.zip": {
+        "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win64.zip",
+        "size": 12603005,
+        "updateTime": 1776870238000
+      },
       "WezTerm/WezTerm-20240203-110809-5046fc22-setup.exe": {
         "url": "https://ghfast.top/https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe",
         "size": 42321770,
@@ -207,6 +267,21 @@
         "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-x86_64-latest.exe",
         "size": 94008994,
         "updateTime": 1778820348000
+      },
+      "ADB/platform-tools-linux.zip": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/adb/releases/download/latest-adb/platform-tools-linux.zip",
+        "size": 9167924,
+        "updateTime": 1778883882000
+      },
+      "ADB/platform-tools-macos.zip": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/adb/releases/download/latest-adb/platform-tools-macos.zip",
+        "size": 16442240,
+        "updateTime": 1778883884000
+      },
+      "ADB/platform-tools-windows.zip": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/adb/releases/download/latest-adb/platform-tools-windows.zip",
+        "size": 8092164,
+        "updateTime": 1778883885000
       }
     }
   }
