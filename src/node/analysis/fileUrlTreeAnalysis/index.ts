@@ -1,8 +1,8 @@
 import {addFileToFileTree, Folder} from "../../base/files.js";
 import {Analysis} from "../../base/AllAnalysis.js";
 
-export type FileUrlTree = {
-    [path:string]:string | {url:string, size?:number} 
+export type FileUrlTree = {  
+    [path:string]:string | {url:string, size?:number, updateTime?:number}  
 }
 
 export function fileUrlTreeAnalysis(config:FileUrlTree):Analysis{  
@@ -11,15 +11,16 @@ export function fileUrlTreeAnalysis(config:FileUrlTree):Analysis{
         for(let path in config){  
             const value = config[path];  
               
-            // 解析 url 和 size  
             let url: string;  
             let size: number | undefined;  
+            let updateTime: number | undefined;  
               
             if(typeof value === 'string'){  
                 url = value;  
             } else {  
                 url = value.url;  
                 size = value.size;  
+                updateTime = value.updateTime;  
             }  
               
             if(path.startsWith("/")){  
@@ -37,7 +38,8 @@ export function fileUrlTreeAnalysis(config:FileUrlTree):Analysis{
                 name:fileName,  
                 downloadUrl:url,  
                 downloadCorsAllow: "allow",  
-                size: size,  // 添加 size 字段  
+                size: size,  
+                updateTime: updateTime,  // 添加 updateTime 字段  
             });  
         }  
         return fileTree;  
