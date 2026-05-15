@@ -182,6 +182,31 @@
         "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/PortableGit-2.54.0-arm64.7z.exe",
         "size": 59757336,
         "updateTime": 1776709303000
+      },
+      "MSYS2/msys2-arm64-latest.exe": {
+        "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-arm64-latest.exe",
+        "size": 89562167,
+        "updateTime": 1778820347000
+      },
+      "MSYS2/msys2-base-x86_64-latest.sfx.exe": {
+        "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-base-x86_64-latest.sfx.exe",
+        "size": 52867800,
+        "updateTime": 1778820346000
+      },
+      "MSYS2/msys2-base-x86_64-latest.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-base-x86_64-latest.tar.xz",
+        "size": 53607948,
+        "updateTime": 1778820347000
+      },
+      "MSYS2/msys2-base-x86_64-latest.tar.zst": {
+        "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-base-x86_64-latest.tar.zst",
+        "size": 54519689,
+        "updateTime": 1778820347000
+      },
+      "MSYS2/msys2-x86_64-latest.exe": {
+        "url": "https://ghfast.top/https://github.com/msys2/msys2-installer/releases/download/nightly-x86_64/msys2-x86_64-latest.exe",
+        "size": 94008994,
+        "updateTime": 1778820348000
       }
     }
   }
