@@ -1,0 +1,68 @@
+{
+  "mountPath": "/影视软件",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "OBS/OBS-Studio-32.1.2-macOS-Apple-dSYMs.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-macOS-Apple-dSYMs.tar.xz",
+        "size": 37540968,
+        "updateTime": 1776801979000
+      },
+      "OBS/OBS-Studio-32.1.2-macOS-Apple.dmg": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-macOS-Apple.dmg",
+        "size": 187527877,
+        "updateTime": 1776801985000
+      },
+      "OBS/OBS-Studio-32.1.2-macOS-Intel-dSYMs.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-macOS-Intel-dSYMs.tar.xz",
+        "size": 38264488,
+        "updateTime": 1776801979000
+      },
+      "OBS/OBS-Studio-32.1.2-macOS-Intel.dmg": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-macOS-Intel.dmg",
+        "size": 197263771,
+        "updateTime": 1776801984000
+      },
+      "OBS/OBS-Studio-32.1.2-Sources.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Sources.tar.gz",
+        "size": 16606155,
+        "updateTime": 1776801978000
+      },
+      "OBS/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64-dbsym.ddeb": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64-dbsym.ddeb",
+        "size": 450250400,
+        "updateTime": 1776801989000
+      },
+      "OBS/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64.deb": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Ubuntu-24.04-x86_64.deb",
+        "size": 134236418,
+        "updateTime": 1776801982000
+      },
+      "OBS/OBS-Studio-32.1.2-Windows-arm64-PDBs.zip": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-arm64-PDBs.zip",
+        "size": 53706077,
+        "updateTime": 1776801979000
+      },
+      "OBS/OBS-Studio-32.1.2-Windows-arm64.zip": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-arm64.zip",
+        "size": 163945604,
+        "updateTime": 1776801983000
+      },
+      "OBS/OBS-Studio-32.1.2-Windows-x64-Installer.exe": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "size": 157809480,
+        "updateTime": 1776801982000
+      },
+      "OBS/OBS-Studio-32.1.2-Windows-x64-PDBs.zip": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64-PDBs.zip",
+        "size": 60696395,
+        "updateTime": 1776801979000
+      },
+      "OBS/OBS-Studio-32.1.2-Windows-x64.zip": {
+        "url": "https://ghfast.top/https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64.zip",
+        "size": 184814726,
+        "updateTime": 1776801984000
+      }
+    }
+  }
+}

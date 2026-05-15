@@ -1,0 +1,88 @@
+{
+  "mountPath": "/系统工具",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "解压/7z2601-arm.exe": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-arm.exe",
+        "size": 1663430,
+        "updateTime": 1777307943000
+      },
+      "解压/7z2601-arm64.exe": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-arm64.exe",
+        "size": 1592021,
+        "updateTime": 1777307943000
+      },
+      "解压/7z2601-extra.7z": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-extra.7z",
+        "size": 1759805,
+        "updateTime": 1777307944000
+      },
+      "解压/7z2601-linux-arm.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-linux-arm.tar.xz",
+        "size": 1215608,
+        "updateTime": 1777307944000
+      },
+      "解压/7z2601-linux-arm64.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-linux-arm64.tar.xz",
+        "size": 1326544,
+        "updateTime": 1777307945000
+      },
+      "解压/7z2601-linux-x64.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-linux-x64.tar.xz",
+        "size": 1572208,
+        "updateTime": 1777307945000
+      },
+      "解压/7z2601-linux-x86.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-linux-x86.tar.xz",
+        "size": 1727676,
+        "updateTime": 1777307946000
+      },
+      "解压/7z2601-mac.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-mac.tar.xz",
+        "size": 1860356,
+        "updateTime": 1777307947000
+      },
+      "解压/7z2601-src.7z": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-src.7z",
+        "size": 1530276,
+        "updateTime": 1777307947000
+      },
+      "解压/7z2601-src.tar.xz": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-src.tar.xz",
+        "size": 1543032,
+        "updateTime": 1777307948000
+      },
+      "解压/7z2601-x64.exe": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe",
+        "size": 1658851,
+        "updateTime": 1777307948000
+      },
+      "解压/7z2601-x64.msi": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.msi",
+        "size": 2002432,
+        "updateTime": 1777307949000
+      },
+      "解压/7z2601.exe": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601.exe",
+        "size": 1359532,
+        "updateTime": 1777307941000
+      },
+      "解压/7z2601.msi": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7z2601.msi",
+        "size": 1568768,
+        "updateTime": 1777307942000
+      },
+      "解压/7zr.exe": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/7zr.exe",
+        "size": 602112,
+        "updateTime": 1777307949000
+      },
+      "解压/lzma2601.7z": {
+        "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.01/lzma2601.7z",
+        "size": 1782428,
+        "updateTime": 1777307950000
+      }
+    }
+  }
+}

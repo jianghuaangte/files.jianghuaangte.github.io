@@ -1,0 +1,73 @@
+{
+  "mountPath": "/开发工具",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "Git/Git-2.54.0-64-bit.exe": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-64-bit.exe",
+        "size": 65175776,
+        "updateTime": 1776709277000
+      },
+      "Git/Git-2.54.0-64-bit.tar.bz2": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-64-bit.tar.bz2",
+        "size": 116824890,
+        "updateTime": 1776709291000
+      },
+      "Git/Git-2.54.0-arm64.exe": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-arm64.exe",
+        "size": 63430440,
+        "updateTime": 1776709298000
+      },
+      "Git/Git-2.54.0-arm64.tar.bz2": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/Git-2.54.0-arm64.tar.bz2",
+        "size": 157085415,
+        "updateTime": 1776709313000
+      },
+      "Git/MinGit-2.54.0-32-bit.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/MinGit-2.54.0-32-bit.zip",
+        "size": 38797788,
+        "updateTime": 1776709293000
+      },
+      "Git/MinGit-2.54.0-64-bit.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/MinGit-2.54.0-64-bit.zip",
+        "size": 39989839,
+        "updateTime": 1776709284000
+      },
+      "Git/MinGit-2.54.0-arm64.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/MinGit-2.54.0-arm64.zip",
+        "size": 39751161,
+        "updateTime": 1776709305000
+      },
+      "Git/MinGit-2.54.0-busybox-32-bit.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/MinGit-2.54.0-busybox-32-bit.zip",
+        "size": 34187727,
+        "updateTime": 1776709295000
+      },
+      "Git/MinGit-2.54.0-busybox-64-bit.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/MinGit-2.54.0-busybox-64-bit.zip",
+        "size": 35366840,
+        "updateTime": 1776709286000
+      },
+      "Git/pdbs-for-git-64-bit-2.54.0.1-1.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/pdbs-for-git-64-bit-2.54.0.1-1.zip",
+        "size": 17810400,
+        "updateTime": 1776709279000
+      },
+      "Git/pdbs-for-git-arm64-2.54.0.1-1.zip": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/pdbs-for-git-arm64-2.54.0.1-1.zip",
+        "size": 2450269,
+        "updateTime": 1776709299000
+      },
+      "Git/PortableGit-2.54.0-64-bit.7z.exe": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/PortableGit-2.54.0-64-bit.7z.exe",
+        "size": 58995352,
+        "updateTime": 1776709282000
+      },
+      "Git/PortableGit-2.54.0-arm64.7z.exe": {
+        "url": "https://ghfast.top/https://github.com/git-for-windows/git/releases/download/v2.54.0.windows.1/PortableGit-2.54.0-arm64.7z.exe",
+        "size": 59757336,
+        "updateTime": 1776709303000
+      }
+    }
+  }
+}

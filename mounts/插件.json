@@ -1,0 +1,28 @@
+{
+  "mountPath": "/插件",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "浏览器/ZeroOmega/chromium-release.zip": {
+        "url": "https://ghfast.top/https://github.com/zero-peak/ZeroOmega/releases/download/v3.4.5/chromium-release.zip",
+        "size": 1878089,
+        "updateTime": 1760621066000
+      },
+      "浏览器/ZeroOmega/firefox-release.zip": {
+        "url": "https://ghfast.top/https://github.com/zero-peak/ZeroOmega/releases/download/v3.4.5/firefox-release.zip",
+        "size": 1878126,
+        "updateTime": 1760621066000
+      },
+      "浏览器/ZeroOmega/zeroomega-3.4.5.crx": {
+        "url": "https://ghfast.top/https://github.com/zero-peak/ZeroOmega/releases/download/v3.4.5/zeroomega-3.4.5.crx",
+        "size": 1655200,
+        "updateTime": 1761010092000
+      },
+      "浏览器/ZeroOmega/zeroomega-3.4.5.xpi": {
+        "url": "https://ghfast.top/https://github.com/zero-peak/ZeroOmega/releases/download/v3.4.5/zeroomega-3.4.5.xpi",
+        "size": 1708090,
+        "updateTime": 1761010094000
+      }
+    }
+  }
+}
