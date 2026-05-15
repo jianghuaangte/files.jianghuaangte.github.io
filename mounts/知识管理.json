@@ -1,0 +1,53 @@
+{
+  "mountPath": "/知识管理",
+  "analysis": {
+    "type": "fileUrlTreeAnalysis",
+    "options": {
+      "Obsidian/Obsidian-1.12.7-arm64.AppImage": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7-arm64.AppImage",
+        "size": 124625813,
+        "updateTime": 1774279637000
+      },
+      "Obsidian/obsidian-1.12.7-arm64.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7-arm64.tar.gz",
+        "size": 117539982,
+        "updateTime": 1774279649000
+      },
+      "Obsidian/Obsidian-1.12.7.apk": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.apk",
+        "size": 15053081,
+        "updateTime": 1774279770000
+      },
+      "Obsidian/Obsidian-1.12.7.AppImage": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.AppImage",
+        "size": 124027043,
+        "updateTime": 1774279502000
+      },
+      "Obsidian/obsidian-1.12.7.asar.gz": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz",
+        "size": 8323080,
+        "updateTime": 1774279672000
+      },
+      "Obsidian/Obsidian-1.12.7.dmg": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.dmg",
+        "size": 213334249,
+        "updateTime": 1774279523000
+      },
+      "Obsidian/Obsidian-1.12.7.exe": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/Obsidian-1.12.7.exe",
+        "size": 295530200,
+        "updateTime": 1774279613000
+      },
+      "Obsidian/obsidian-1.12.7.tar.gz": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.tar.gz",
+        "size": 117247533,
+        "updateTime": 1774279625000
+      },
+      "Obsidian/obsidian_1.12.7_amd64.deb": {
+        "url": "https://ghfast.top/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian_1.12.7_amd64.deb",
+        "size": 85762386,
+        "updateTime": 1774279658000
+      }
+    }
+  }
+}
