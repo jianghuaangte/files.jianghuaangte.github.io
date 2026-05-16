@@ -3,7 +3,7 @@
   
 :root{  
     /**图标颜色*/  
-    --logo-color: #00b3ff;  
+    --logo-color: #58595c;  
   
     /**主题颜色的定义*/  
     --t-color-1:#00b2ff;  
@@ -32,7 +32,7 @@
   
 /* 深色模式变量 */  
 [data-theme="dark"] {  
-    --logo-color: #4da6ff;  
+    --logo-color: #c6c6c8;  
     --t-color-1: #4da6ff;  
     --f-color-0: rgba(255, 255, 255, 1);  
     --f-color-1: rgba(255, 255, 255, 0.7);  
