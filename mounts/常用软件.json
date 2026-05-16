@@ -3,6 +3,46 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
+      "FireFox/Firefox_Linux_i686.tar.bz2": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/firefox/releases/download/latest-firefox/Firefox_Linux_i686.tar.bz2",
+        "size": 19,
+        "updateTime": 1778882365000
+      },
+      "FireFox/Firefox_Linux_x64.tar.bz2": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/firefox/releases/download/latest-firefox/Firefox_Linux_x64.tar.bz2",
+        "size": 83662580,
+        "updateTime": 1778882368000
+      },
+      "FireFox/Firefox_macOS.dmg": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/firefox/releases/download/latest-firefox/Firefox_macOS.dmg",
+        "size": 151515648,
+        "updateTime": 1778882381000
+      },
+      "FireFox/Firefox_Win32.exe": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/firefox/releases/download/latest-firefox/Firefox_Win32.exe",
+        "size": 76802736,
+        "updateTime": 1778882372000
+      },
+      "FireFox/Firefox_Win64.exe": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/firefox/releases/download/latest-firefox/Firefox_Win64.exe",
+        "size": 87280560,
+        "updateTime": 1778882376000
+      },
+      "Chrome/arm64_148.0.7778.168_chrome_installer_uncompressed.exe": {
+        "url": "https://ghfast.top/https://github.com/Bush2021/chrome_installer/releases/download/148.0.7778.168/arm64_148.0.7778.168_chrome_installer_uncompressed.exe",
+        "size": 460593064,
+        "updateTime": 1778615144000
+      },
+      "Chrome/x64_148.0.7778.168_chrome_installer_uncompressed.exe": {
+        "url": "https://ghfast.top/https://github.com/Bush2021/chrome_installer/releases/download/148.0.7778.168/x64_148.0.7778.168_chrome_installer_uncompressed.exe",
+        "size": 479358376,
+        "updateTime": 1778615144000
+      },
+      "Chrome/x86_148.0.7778.168_chrome_installer_uncompressed.exe": {
+        "url": "https://ghfast.top/https://github.com/Bush2021/chrome_installer/releases/download/148.0.7778.168/x86_148.0.7778.168_chrome_installer_uncompressed.exe",
+        "size": 389541288,
+        "updateTime": 1778615142000
+      },
       "Pot翻译/pot-3.0.7-1.aarch64.rpm": {
         "url": "https://ghfast.top/https://github.com/pot-app/pot-desktop/releases/download/3.0.7/pot-3.0.7-1.aarch64.rpm",
         "size": 42848986,
@@ -167,6 +207,11 @@
         "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-windows-amd64.exe",
         "size": 85513520,
         "updateTime": 1777211717000
+      },
+      "StrongSwan/org.strongswan.android_96.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/strongswan/releases/download/latest-strongswan/org.strongswan.android_96.apk",
+        "size": 16041314,
+        "updateTime": 1778886264000
       }
     }
   }

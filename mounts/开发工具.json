@@ -3,6 +3,46 @@
   "analysis": {
     "type": "fileUrlTreeAnalysis",
     "options": {
+      "Tmurmux-Apks/com.termux.api_1002.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.api_1002.apk",
+        "size": 3956196,
+        "updateTime": 1778860003000
+      },
+      "Tmurmux-Apks/com.termux.boot_1000.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.boot_1000.apk",
+        "size": 26000,
+        "updateTime": 1778860004000
+      },
+      "Tmurmux-Apks/com.termux.gui_7.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.gui_7.apk",
+        "size": 3492051,
+        "updateTime": 1778860004000
+      },
+      "Tmurmux-Apks/com.termux.styling_1000.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.styling_1000.apk",
+        "size": 32930486,
+        "updateTime": 1778860006000
+      },
+      "Tmurmux-Apks/com.termux.tasker_1002.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.tasker_1002.apk",
+        "size": 2892038,
+        "updateTime": 1778860007000
+      },
+      "Tmurmux-Apks/com.termux.widget_1001.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.widget_1001.apk",
+        "size": 5873060,
+        "updateTime": 1778860008000
+      },
+      "Tmurmux-Apks/com.termux.window_1001.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux.window_1001.apk",
+        "size": 1945141,
+        "updateTime": 1778860008000
+      },
+      "Tmurmux-Apks/com.termux_1002.apk": {
+        "url": "https://ghfast.top/https://github.com/jianghuaangte/F-Droid-termux-apks/releases/download/latest-termux/com.termux_1002.apk",
+        "size": 113880067,
+        "updateTime": 1778860013000
+      },
       "编辑器/Neovim/nvim-linux-arm64.appimage": {
         "url": "https://ghfast.top/https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-linux-arm64.appimage",
         "size": 11319816,
