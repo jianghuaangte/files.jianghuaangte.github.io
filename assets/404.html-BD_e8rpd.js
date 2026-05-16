@@ -1,0 +1,1 @@
+import{c as e,h as o,e as n,s as a}from"./app-D9_whdga.js";const r={};function s(c,t){return a(),o("div",null,[...t[0]||(t[0]=[n("p",null,"404 Not Found",-1)])])}const m=e(r,[["render",s]]),p=JSON.parse('{"path":"/404.html","title":"","lang":"zh-CN","frontmatter":{"layout":"NotFound"}}');export{m as comp,p as data};
