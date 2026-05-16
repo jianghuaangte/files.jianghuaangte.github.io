@@ -92,7 +92,7 @@ const showChildren = computed(()=>{
   
 <style scoped>  
 .search-box { margin-bottom: 1rem; padding: 0 0.4rem; }  
-.search-input { width: 100%; padding: 0.6rem; border: 1px solid var(--main-border-c); border-radius: 4px; background: var(--mian-box-bgc); color: var(--f-color-0); outline: none; }  
+.search-input { width: 98%; padding: 0.6rem; border: 1px solid var(--main-border-c); border-radius: 4px; background: var(--mian-box-bgc); color: var(--f-color-0); outline: none; }  
 .search-input:focus { border-color: var(--t-color-1); }  
 .path-hint { opacity: 0.4; margin-left: 10px; font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }  
 .list-move, .list-enter-active, .list-leave-active { transition: none; }  
