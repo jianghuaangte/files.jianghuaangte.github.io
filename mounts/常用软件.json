@@ -213,21 +213,6 @@
         "size": 16041314,
         "updateTime": 1778886264000
       },
-      "MarkText/latest-linux.yml": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/latest-linux.yml",
-        "size": 371,
-        "updateTime": 1646670821000
-      },
-      "MarkText/latest-mac.yml": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/latest-mac.yml",
-        "size": 787,
-        "updateTime": 1646671222000
-      },
-      "MarkText/latest.yml": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/latest.yml",
-        "size": 334,
-        "updateTime": 1646671008000
-      },
       "MarkText/marktext-amd64.deb": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-amd64.deb",
         "size": 75198556,
@@ -238,20 +223,10 @@
         "size": 111418578,
         "updateTime": 1646671222000
       },
-      "MarkText/marktext-arm64-mac.zip.blockmap": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64-mac.zip.blockmap",
-        "size": 119041,
-        "updateTime": 1646671218000
-      },
       "MarkText/marktext-arm64.dmg": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64.dmg",
         "size": 115442635,
         "updateTime": 1646671216000
-      },
-      "MarkText/marktext-arm64.dmg.blockmap": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-arm64.dmg.blockmap",
-        "size": 121558,
-        "updateTime": 1646671211000
       },
       "MarkText/marktext-ia32-win.zip": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-ia32-win.zip",
@@ -263,20 +238,10 @@
         "size": 156301724,
         "updateTime": 1646671006000
       },
-      "MarkText/marktext-setup.exe.blockmap": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe.blockmap",
-        "size": 160929,
-        "updateTime": 1646671002000
-      },
       "MarkText/marktext-x64-mac.zip": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-mac.zip",
         "size": 107973974,
         "updateTime": 1646671089000
-      },
-      "MarkText/marktext-x64-mac.zip.blockmap": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-mac.zip.blockmap",
-        "size": 114682,
-        "updateTime": 1646671086000
       },
       "MarkText/marktext-x64-win.zip": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64-win.zip",
@@ -287,11 +252,6 @@
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.dmg",
         "size": 111749624,
         "updateTime": 1646671076000
-      },
-      "MarkText/marktext-x64.dmg.blockmap": {
-        "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.dmg.blockmap",
-        "size": 116980,
-        "updateTime": 1646671072000
       },
       "MarkText/marktext-x64.tar.gz": {
         "url": "https://ghfast.top/https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x64.tar.gz",
